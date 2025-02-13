@@ -10,28 +10,34 @@
 </div>
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! 很高兴见到你！！ 👋</h1>
-<table align="center">
-  <tr><td>
-  <div align="center">
-    <br>
-    <h3>✨&nbsp; 关于我 </h3>
-    <div>欢迎来到我的网络角落，在这里我用代码创造优雅的东西。</div>
-    <br>
-    <p style="text-align: left;">- 📍 就读于 <b>吉首大学 软件工程专业（大三）</b></p>
-    <p style="text-align: left;">- 🌱 <b>前端开发 | 软件工程专业 | 开源爱好者</b></p>
-    <p style="text-align: left;">- 🎯 目标：成为一名 <b>资深前端工程师</b>，构建优雅且高效的 Web 应用</p>
-    <p style="text-align: left;">- 😄 代词：<b>she / her</b></p>
-    <p style="text-align: left;"><i>🌍 "世界不能没有程序员。" 💡</i></p>
-    <p style="text-align: left;">⚡ <b>有趣的事实：</b> 我写的代码很整洁，但我的桌面总是很乱 😂</p>
-    <br>
-    <h3>🤝 联系我</h3>
-    <p style="text-align: left;">🏡 <b>个人博客：</b> <a href="https://blog.csdn.net/m0_73172034?spm=1010.2135.3001.5343"><b>https://blog.csdn.net</b></a></p>
-    <p style="text-align: left;">📧 <b>Email：</b> <a href="mailto:2171204141@qq.com"><b>2171204141@qq.com</b></a></p>
-    <p style="text-align: left;">💬 <b>GitHub Issue & Discussions</b> - 欢迎交流技术！</p>
-    <br>
-  </div>
-  </td></tr>
+<table align="center" style="margin: auto;">
+  <tr>
+    <td align="left">
+      <br>
+      <div align="center">
+        <div>欢迎来到我的网络角落，在这里我用代码创造优雅的东西。</div>
+        <h3>✨&nbsp; 关于我 </h3>
+      </div>
+      <p>- 📍 就读于 <b>吉首大学 软件工程专业（大三）</b></p>
+      <p>- 🌱 <b>前端开发 | 软件工程专业 | 开源爱好者</b></p>
+      <p>- 🎯 目标：成为一名 <b>资深前端工程师</b>，构建优雅且高效的 Web 应用</p>
+      <p>- 😄 代词：<b>she / her</b></p>
+      <p><i>🌍 "世界不能没有程序员。" 💡</i></p>
+      <p>⚡ <b>有趣的事实：</b> 我写的代码很整洁，但我的桌面总是很乱 😂</p>
+      <br>
+      <div align="center">
+        <h3>🤝 联系我</h3>
+      </div>
+      <p>🏡 <b>个人博客：</b> <a href="https://blog.csdn.net/m0_73172034?spm=1010.2135.3001.5343">
+        <b>https://blog.csdn.net</b></a></p>
+      <p>📧 <b>Email：</b> <a href="mailto:2171204141@qq.com">
+        <b>2171204141@qq.com</b></a></p>
+      <p>💬 <b>GitHub Issue & Discussions</b> - 欢迎交流技术！</p>
+      <br>
+    </td>
+  </tr>
 </table>
+
 <br>
 
 <div align="center" >
