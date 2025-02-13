@@ -20,15 +20,13 @@
 <div>欢迎来到我的网络角落，在这里我用代码创造优雅的东西。</div></br>
 
 <div>- 👯 我希望与开源社区合作，使我们的技术空间更具包容性和平易近人</div>
-<div>- 📫 如何联系我: 2171204141@qq.com</div>
+<div>- 📫 如何联系我: ==2171204141@qq.com==</div>
 <div>- 😄 代词: 她</div>
-<br/>
-
-<div>🛠️&nbsp;&nbsp;语言&nbsp;和&nbsp;工具</div>
 <br/>
 
 <div align="center" >
 
+  <div>🛠️&nbsp;&nbsp;语言&nbsp;和&nbsp;工具</div>
   <p align="left"> 
     <a href="https://cn.vuejs.org/" target="_blank"> 
       <svg class="logo" viewBox="0 0 128 128" width="40" height="40" data-v-2b313a12=""><path fill="#42b883" d="M78.8,10L64,35.4L49.2,10H0l64,110l64-110C128,10,78.8,10,78.8,10z" data-v-2b313a12=""></path><path fill="#35495e" d="M78.8,10L64,35.4L49.2,10H25.6L64,76l38.4-66H78.8z" data-v-2b313a12=""></path></svg>
@@ -100,6 +98,7 @@
 [![Less](https://img.shields.io/badge/Less-45A4B8?style=flat-square&logo=Less&logoColor=ffffff)](https://lesscss.org/) 
 
 🧰 常用的工具
+
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
