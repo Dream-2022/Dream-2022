@@ -1,7 +1,3 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! 很高兴见到你！！ 👋</h1>
-
-
-
 <div>
   <!-- dynamic typing effect 动态打字效果 -->
   <div align="center">
@@ -10,24 +6,34 @@
     </a>
   </div>
 
-
-
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 --><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
 </div>
 
-<h3>✨&nbsp; 关于我 </h3>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! 很高兴见到你！！ 👋</h1>
 
-<div>欢迎来到我的网络角落，在这里我用代码创造优雅的东西。</div></br>
-
-<div>- 👯 我希望与开源社区合作，使我们的技术空间更具包容性和平易近人</div>
-<div>- 📫 如何联系我: ==2171204141@qq.com==</div>
-<div>- 😄 代词: 她</div>
-<br/>
+<div align="center" style="border: 1px solid #000000;border-radius: 5px;">
+  <br>
+  <h3>✨&nbsp; 关于我 </h3>
+  <div>欢迎来到我的网络角落，在这里我用代码创造优雅的东西。</div>
+    <p style="text-align: left; max-width: 600px;">- 📍 就读于 <b>吉首大学 软件工程专业（大三）</b></p>
+    <p style="text-align: left; max-width: 600px;">- 🌱 <b>前端开发 | 软件工程专业 | 开源爱好者</b></p>
+    <p style="text-align: left; max-width: 600px;">- 🎯 目标：成为一名 <b>资深前端工程师</b>，构建优雅且高效的 Web 应用</p>
+    <p style="text-align: left; max-width: 600px;">- 📫 如何联系我：<b>2171204141@qq.com</b></p>
+    <p style="text-align: left; max-width: 600px;">- 😄 代词：<b>she / her</b></p>
+    <p style="text-align: left; max-width: 600px;"><i>🌍 "世界不能没有程序员。" 💡</i></p>
+    <p style="text-align: left; max-width: 600px;">⚡ <b>有趣的事实：</b> 我写的代码很整洁，但我的桌面总是很乱 😂</p>
+    <br>
+    <h3>🤝 联系我</h3>
+    <p style="text-align: left; max-width: 600px;">🏡 <b>个人博客：</b> <a href="https://blog.csdn.net/m0_73172034?spm=1010.2135.3001.5343"><b>https://blog.csdn.net</b></a></p>
+    <p style="text-align: left; max-width: 600px;">📧 <b>Email：</b> <a href="mailto:2171204141@qq.com"><b>2171204141@qq.com</b></a></p>
+    <p style="text-align: left; max-width: 600px;">💬 <b>GitHub Issue & Discussions</b> - 欢迎交流技术！</p>
+    <br>
+</div>
+<br>
 
 <div align="center" >
-
-  <div>🛠️&nbsp;&nbsp;语言&nbsp;和&nbsp;工具</div>
-  <p align="left"> 
+  <h3>🛠️&nbsp;&nbsp;语言和工具</h3>
+  <p align="center"> 
     <a href="https://cn.vuejs.org/" target="_blank"> 
       <svg class="logo" viewBox="0 0 128 128" width="40" height="40" data-v-2b313a12=""><path fill="#42b883" d="M78.8,10L64,35.4L49.2,10H0l64,110l64-110C128,10,78.8,10,78.8,10z" data-v-2b313a12=""></path><path fill="#35495e" d="M78.8,10L64,35.4L49.2,10H25.6L64,76l38.4-66H78.8z" data-v-2b313a12=""></path></svg>
     </a>
@@ -77,7 +83,7 @@
   </p>
 
 <!--  skill badge 技能徽章 -->
-💪 正在学习
+<h3>💪 正在学习</h3>
 
 ![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat)
 ![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat)
@@ -88,7 +94,7 @@
 ![Vite Badge](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=flat)
 
 
-🧠 计划学习
+<h3>🧠 计划学习</h3>
 
 ![R Badge](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=fff&style=flat)
 ![PHP Badge](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff&style=flat)
@@ -97,7 +103,7 @@
 ![Three.js Badge](https://img.shields.io/badge/Three.js-092E20?logo=threedotjs&logoColor=fff&style=flat)
 [![Less](https://img.shields.io/badge/Less-45A4B8?style=flat-square&logo=Less&logoColor=ffffff)](https://lesscss.org/) 
 
-🧰 常用的工具
+<h3>🧰 常用的工具</h3>
 
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
@@ -116,14 +122,13 @@
 [![Docker](https://img.shields.io/badge/Docker-3AC1D0?style=flat-square&logo=Docker&logoColor=ffffff)](https://www.docker.com/) 
 ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
 ![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=fff&style=flat)
+![SpringBoot Badge](https://img.shields.io/badge/SpringBoot-B3EADE?logo=SpringBoot&logoColor=ffffff&style=flat)
+![Monorepo Badge](https://img.shields.io/badge/Monorepo-B3EADE?logo=SpringBoot&logoColor=ffffff&style=flat)
 
 <!-- programming tool icon 编程工具图标 -->
 <img src="https://skillicons.dev/icons?i=ai,npm,c,cpp,ts,discord,pinia,vite,twitter,mongodb,instagram,idea,git,vscode" /><br>
 
 <!-- svg -->
-
-
-
 <div align="center">
   <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
 	<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
