@@ -131,8 +131,7 @@
 [![Docker](https://img.shields.io/badge/Docker-3AC1D0?style=flat-square&logo=Docker&logoColor=ffffff)](https://www.docker.com/) 
 ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
 ![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=fff&style=flat)
-![SpringBoot Badge](https://img.shields.io/badge/SpringBoot-B3EADE?logo=SpringBoot&logoColor=ffffff&style=flat)
-![Monorepo Badge](https://img.shields.io/badge/Monorepo-B3EADE?logo=SpringBoot&logoColor=ffffff&style=flat)
+![Monorepo Badge](https://img.shields.io/badge/Monorepo-FC5D73?logo=SpringBoot&logoColor=ffffff&style=flat)
 
 <!-- programming tool icon 编程工具图标 -->
 <img src="https://skillicons.dev/icons?i=ai,npm,c,cpp,ts,discord,pinia,vite,twitter,mongodb,instagram,idea,git,vscode" /><br>
