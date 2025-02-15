@@ -22,14 +22,16 @@
       <p>- 🌱 <b>前端开发 | 软件工程专业 | 开源爱好者</b></p>
       <p>- 🎯 目标：成为一名 <b>资深前端工程师</b>，构建优雅且高效的 Web 应用</p>
       <p>- 😄 代词：<b>she / her</b></p>
-      <p><i>🌍 "世界不能没有程序员。" 💡</i></p>
-      <p>⚡ <b>有趣的事实：</b> 我写的代码很整洁，但我的桌面总是很乱 😂</p>
+      <p>- <i>🌍 "世界不能没有程序员。" 💡</i></p>
+      <p>- ⚡ <b>有趣的事实：</b> 我写的代码很整洁，但我的桌面总是很乱 😂</p>
       <br>
       <div align="center">
         <h3>🤝 联系我</h3>
       </div>
-      <p>🏡 <b>个人博客：</b> <a href="https://blog.csdn.net/m0_73172034?spm=1010.2135.3001.5343">
+      <p>🚀 <b>CSDN：</b> <a href="https://blog.csdn.net/m0_73172034?spm=1010.2135.3001.5343">
         <b>https://blog.csdn.net</b></a></p>
+      <p>🔭 <b>掘金：</b> <a href="https://juejin.cn/user/2148892514729655">
+        <b>https://juejin.cn</b></a></p>
       <p>📧 <b>Email：</b> <a href="mailto:2171204141@qq.com">
         <b>2171204141@qq.com</b></a></p>
       <p>💬 <b>GitHub Issue & Discussions</b> - 欢迎交流技术！</p>
@@ -164,21 +166,3 @@
   <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/js.webp">
   <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/github.webp">
 </div>
-
-
-
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dream-2022) -->
-<!--
-**Dream-2022/Dream-2022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
