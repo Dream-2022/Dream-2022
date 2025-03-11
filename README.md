@@ -19,9 +19,9 @@
         <h3>✨&nbsp; 关于我 </h3>
       </div>
       <p>- 📍 就读于 <b>吉首大学 软件工程专业（大三）</b></p>
+      <p>- 😄 代词：<b>she / her</b></p>
       <p>- 🌱 <b>前端开发 | 软件工程专业 | 开源爱好者</b></p>
       <p>- 🎯 目标：成为一名 <b>资深前端工程师</b>，构建优雅且高效的 Web 应用</p>
-      <p>- 😄 代词：<b>she / her</b></p>
       <p><i>🌍 "世界不能没有程序员。" 💡</i></p>
       <p>⚡ <b>有趣的事实：</b> 我写的代码很整洁，但我的桌面总是很乱 😂</p>
       <br>
@@ -97,11 +97,10 @@
 ![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat)
 ![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat)
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
-[![Webpack](https://img.shields.io/badge/Webpack-3BC4F3?style=flat-square&logo=Webpack&logoColor=ffffff)](https://webpack.js.org/) 
-[![Node.js](https://img.shields.io/badge/Node.js-5D9741?style=flat-square&logo=Node.js&logoColor=ffffff)](https://nodejs.org/en/) 
-[![Docker](https://img.shields.io/badge/Docker-3AC1D0?style=flat-square&logo=Docker&logoColor=ffffff)](https://www.docker.com/) 
+[![Webpack](https://img.shields.io/badge/Webpack-3BC4F3?style=flat-square&logo=Webpack&logoColor=ffffff)](https://webpack.js.org/)
+[![Node.js](https://img.shields.io/badge/Node.js-5D9741?style=flat-square&logo=Node.js&logoColor=ffffff)](https://nodejs.org/en/)
+[![Docker](https://img.shields.io/badge/Docker-3AC1D0?style=flat-square&logo=Docker&logoColor=ffffff)](https://www.docker.com/)
 ![Vite Badge](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=flat)
-
 
 <h3>🧠 计划学习</h3>
 
@@ -110,7 +109,7 @@
 ![Node.js Badge](https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat)
 ![Android Badge](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=fff&style=flat)
 ![Three.js Badge](https://img.shields.io/badge/Three.js-092E20?logo=threedotjs&logoColor=fff&style=flat)
-[![Less](https://img.shields.io/badge/Less-45A4B8?style=flat-square&logo=Less&logoColor=ffffff)](https://lesscss.org/) 
+[![Less](https://img.shields.io/badge/Less-45A4B8?style=flat-square&logo=Less&logoColor=ffffff)](https://lesscss.org/)
 
 <h3>🧰 常用的工具</h3>
 
@@ -119,7 +118,7 @@
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
 ![Vue.js Badge](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=flat)
 ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat)
-[![Sass](https://img.shields.io/badge/Sass-88C7D4?style=flat-square&logo=Sass&logoColor=ffffff)](https://sass-lang.com/) 
+[![Sass](https://img.shields.io/badge/Sass-88C7D4?style=flat-square&logo=Sass&logoColor=ffffff)](https://sass-lang.com/)
 ![Windows Badge](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=flat)
 ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
 ![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat)
@@ -127,13 +126,14 @@
 ![Adobe Photoshop Badge](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff&style=flat)
 ![jQuery Badge](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff&style=flat)
 ![Visual Studio Badge](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=fff&style=flat)
-[![Git](https://img.shields.io/badge/Git-C1D72F?style=flat-square&logo=Git&logoColor=ffffff)](https://git-scm.com/) 
-[![Docker](https://img.shields.io/badge/Docker-3AC1D0?style=flat-square&logo=Docker&logoColor=ffffff)](https://www.docker.com/) 
+[![Git](https://img.shields.io/badge/Git-C1D72F?style=flat-square&logo=Git&logoColor=ffffff)](https://git-scm.com/)
+[![Docker](https://img.shields.io/badge/Docker-3AC1D0?style=flat-square&logo=Docker&logoColor=ffffff)](https://www.docker.com/)
 ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
 ![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=fff&style=flat)
 ![Monorepo Badge](https://img.shields.io/badge/Monorepo-FC5D73?logo=SpringBoot&logoColor=ffffff&style=flat)
 
 <!-- programming tool icon 编程工具图标 -->
+
 <img src="https://skillicons.dev/icons?i=ai,npm,c,cpp,ts,discord,pinia,vite,twitter,mongodb,instagram,idea,git,vscode" /><br>
 
 <!-- svg -->
@@ -143,7 +143,7 @@
 	<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
 	<img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
 	<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" /> 
-	<img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
+	<!-- <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" /> -->
 	<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
 	<img src="https://techstack-generator.vercel.app/eslint-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
 	<img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
@@ -164,8 +164,6 @@
   <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/js.webp">
   <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/github.webp">
 </div>
-
-
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dream-2022) -->
 <!--
