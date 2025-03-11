@@ -28,8 +28,10 @@
       <div align="center">
         <h3>🤝 联系我</h3>
       </div>
-      <p>🏡 <b>个人博客：</b> <a href="https://blog.csdn.net/m0_73172034?spm=1010.2135.3001.5343">
+      <p>🚀 <b>CSDN：</b> <a href="https://blog.csdn.net/m0_73172034?spm=1010.2135.3001.5343">
         <b>https://blog.csdn.net</b></a></p>
+      <p>🔭 <b>掘金：</b> <a href="https://juejin.cn/user/2148892514729655">
+        <b>https://juejin.cn</b></a></p>
       <p>📧 <b>Email：</b> <a href="mailto:2171204141@qq.com">
         <b>2171204141@qq.com</b></a></p>
       <p>💬 <b>GitHub Issue & Discussions</b> - 欢迎交流技术！</p>
@@ -164,19 +166,3 @@
   <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/js.webp">
   <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/github.webp">
 </div>
-
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dream-2022) -->
-<!--
-**Dream-2022/Dream-2022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
